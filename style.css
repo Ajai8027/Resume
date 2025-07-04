@@ -1,0 +1,71 @@
+header{
+    padding: 15px;
+    width: 60%;
+}
+    header h3{
+    text-align: left;
+    margin-left: 10%;
+    padding: 5px;
+}
+
+header p{
+    text-align: right;
+    margin-right: 20%;
+    padding: 2px;
+}
+
+hr{
+    border: 1px;
+    color: black;
+    background-color: black;
+    min-height: auto;
+    width: 60%;
+    height: 3px;
+}
+
+main{
+    width:60%;
+    padding: 10px;
+    margin-top: 3%;
+    display: block;
+}
+
+main h3{
+    text-align: left;
+    padding: 4px;
+}
+
+main p{
+    padding: 12px;
+    width: 70%;
+    font-size:large;
+    align-items: normal;
+}
+
+table{
+
+    padding: 7px;
+    width: 5px;
+    height: 1rem;
+    color: black;
+    border: none;
+    margin-bottom: 5%;
+}
+
+td{
+    padding: 4px;
+    margin: 2px;
+}
+
+ol li{
+    width: 60%;
+    padding: 2px;
+    margin-left: -10%;
+}
+
+ul li{
+    width: 60%;
+    padding: 2px;
+    margin-top: 5px;
+}
+
